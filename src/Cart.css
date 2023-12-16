@@ -1,0 +1,97 @@
+.cart2 {
+  background-color: rgb(67, 210, 210);
+  margin: auto;
+  width: 30em;
+
+  max-height: 10em;
+
+  position: relative;
+  /* bottom: 45em; */
+  border: solid black 2px;
+
+  aspect-ratio: 3/1;
+  overflow: scroll;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+.span1 {
+  font-size: larger;
+  font-weight: 600;
+  position: relative;
+  top: 1.3em;
+  bottom: 2e;
+  left: 2.5em;
+}
+.btn2 {
+  margin: auto;
+  position: relative;
+  width: 5em;
+  left: 13em;
+  top: -26px;
+  color: black;
+  font-size: large;
+}
+.btn3 {
+  margin: auto;
+  position: relative;
+  width: 5em;
+  left: 13em;
+  top: -26px;
+  color: black;
+  font-size: larger;
+}
+.btn4 {
+  margin: auto;
+  position: relative;
+  width: 2em;
+  font-weight: 600;
+  height: 1em;
+  left: 14em;
+  bottom: 3px;
+
+  color: black;
+  background-color: aqua;
+  font-size: larger;
+}
+
+ul {
+  width: 20rem;
+  right: 2em;
+  position: relative;
+  bottom: 1em;
+  background-color: rgb(67, 210, 210);
+}
+li {
+  background-color: rgb(67, 210, 210);
+}
+.span3 {
+  margin-left: 10px;
+  border-radius: 5px;
+  color: black;
+  border: 2px solid black;
+}
+.divv {
+  
+  height: 0px;
+  position: relative;
+  bottom: 20px;
+}
+#quantity {
+  color: black;
+  background-color: rgb(67, 210, 210);
+  position: relative;
+  bottom: 30px;
+  right: 4em;
+}
+.amountDiv {
+  background-color: rgb(67, 210, 210);
+  position: relative;
+  bottom: 46px;
+  left: 150px;
+}
+.cartAmount {
+ 
+  width: auto;
+  height: 33px;
+}

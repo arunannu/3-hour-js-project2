@@ -1,0 +1,24 @@
+*{
+  
+    background-color:aqua;
+    color:black;
+}
+header{
+   height: 5em;
+   margin: auto;
+  
+}
+
+
+h1{
+  font-size: 30px;
+  padding-left: 2rem;
+  padding-top: 1rem;
+
+}
+.headerImg{
+    width: 100%;
+    height: 20%;
+        
+    
+}

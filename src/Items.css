@@ -1,0 +1,31 @@
+.item{
+    background-color: rgb(67, 210, 210);
+    width: 40rem;
+    height: 100px;
+    margin: auto;
+    position: relative;
+    
+    /* bottom: 20em; */
+    color: black;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+h2{
+    background-color: rgb(67, 210, 210);
+    width: 400px;
+   
+}
+.itemDescription{
+    background-color: rgb(67, 210, 210);
+    
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+}
+.amountItem{
+    position: relative;
+    bottom: 40px;
+    height: 10pxpx;
+    width: 400px;
+    color: black;
+}
